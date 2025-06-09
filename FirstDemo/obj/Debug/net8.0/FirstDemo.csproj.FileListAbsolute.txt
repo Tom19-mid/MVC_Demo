@@ -27,3 +27,4 @@ D:\Nhung_bai_hoc_ve_MVC\FirstDemo\obj\Debug\net8.0\refint\FirstDemo.dll
 D:\Nhung_bai_hoc_ve_MVC\FirstDemo\obj\Debug\net8.0\FirstDemo.pdb
 D:\Nhung_bai_hoc_ve_MVC\FirstDemo\obj\Debug\net8.0\FirstDemo.genruntimeconfig.cache
 D:\Nhung_bai_hoc_ve_MVC\FirstDemo\obj\Debug\net8.0\ref\FirstDemo.dll
+D:\Nhung_bai_hoc_ve_MVC\FirstDemo\obj\Debug\net8.0\FirstDemo.sourcelink.json
